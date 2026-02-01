@@ -1,0 +1,12 @@
+{
+    "f_start": 10.0,
+    "f_stop": 10001.0,
+    "num_points": 20,
+    "num_points_lin": 50,
+    "scale": "log",
+    "num_averages": 5,
+    "gen_amplitude_vpp": 10.0,
+    "y_mag_min": -40.0,
+    "y_mag_max": 10.0,
+    "y_mag_min_lin": -40.0
+}

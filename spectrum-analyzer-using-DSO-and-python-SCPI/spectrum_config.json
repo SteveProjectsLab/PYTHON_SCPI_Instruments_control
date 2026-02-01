@@ -1,0 +1,9 @@
+{
+    "f_start": 0.0,
+    "f_stop": 10000.0,
+    "resolution_hz": 100.0,
+    "num_averages": 3,
+    "channel": 1,
+    "coupling": "DC",
+    "window": "HANNING"
+}
